@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		512905681A5704BF00E52458 /* sourcetree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sourcetree; sourceTree = BUILT_PRODUCTS_DIR; };
+		512905681A5704BF00E52458 /* sourcetree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = sourcetree; path = "/Users/Aton_RA/Test-Task-Objective-C/sourcetree/build/Debug/sourcetree"; sourceTree = "<absolute>"; };
 		5129056B1A5704BF00E52458 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,16 +42,7 @@
 			isa = PBXGroup;
 			children = (
 				5129056A1A5704BF00E52458 /* sourcetree */,
-				512905691A5704BF00E52458 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		512905691A5704BF00E52458 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				512905681A5704BF00E52458 /* sourcetree */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		5129056A1A5704BF00E52458 /* sourcetree */ = {
@@ -104,7 +95,7 @@
 				en,
 			);
 			mainGroup = 5129055F1A5704BF00E52458;
-			productRefGroup = 512905691A5704BF00E52458 /* Products */;
+			productRefGroup = 5129055F1A5704BF00E52458;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -232,6 +223,7 @@
 				512905711A5704BF00E52458 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
